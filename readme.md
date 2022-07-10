@@ -19,4 +19,3 @@ user: construdelas
 senha: construdelas
 
 Não fiz template porque eu gosto da interface do rest framework 
-# construdelas-v2-rest
